@@ -1,3 +1,3 @@
-# Silsilah_Kesultanan_Yogyakarta
+# Silsilah_Kerajaan
 
 Tentang penurunan dalam Kesultanan
