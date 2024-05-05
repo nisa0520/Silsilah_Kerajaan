@@ -1,3 +1,3 @@
 # Silsilah_Kerajaan
 
-Tentang penurunan dalam Kesultanan
+Tentang penurunan dalam Kerajaan Inggris
