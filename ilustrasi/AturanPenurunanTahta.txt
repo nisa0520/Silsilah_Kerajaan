@@ -1,0 +1,33 @@
+		 ________________________________________________________________
+		/||$$||+++++++++++++++++++++++++++++++++++++++++++++++++++++++++|
+		/||$$||=========================================================|
+		/||$$||								|
+		/||$$||---------------------------------------------------------|
+		/||$$||--------------	 ATURAN PENURUNAN TAHTA	  --------------|
+		/||$$||---------------------------------------------------------|
+		/||$$||								|
+		/||$$||								|
+		/||$$||	1. Menerapkan aturan primogenetur absolut yang berarti  |
+		/||$$||	   pewaris tahta adalah anak sulung (first son) dari 	|
+		/||$$||	   keturunan langsung raja.				|
+		/||$$||	2. Pewaris tahta tidak dibatasi oleh gender. Putra dan  |
+		/||$$||	   putri yang berstatus sebagai first son memenuhi	|
+		/||$$||	   syarat untuk menjadi pewaris tahta.			|
+		/||$$||	3. Dalam kondisi generasi terakhir, jika pewaris tahta  |
+		/||$$||	   (first son) meninggal maka tahta akan diwariskan ke  |
+		/||$$||	   anak selanjutnya (next brother) sebagai pewaris      |
+		/||$$||	   tahta urutan pertama.				|
+		/||$$||	4. Jika raja tidak memiliki anak maka tahta diwariskan  |
+		/||$$||	   ke pewaris tahta urutan kedua, yaitu saudara kandung |
+		/||$$||	   (next brother) raja. 				|
+		/||$$||	5. Jika pewaris tahta tidak memiliki keturunan dan 	|
+		/||$$||	   saudara kandungnya juga sudah meninggal, maka tahta 	|
+		/||$$||	   dapat diwariskan kepada kerabat dekat terdekat yang 	|
+		/||$$||	   masih hidup, seperti sepupu atau paman/ibunya.	|
+		/||$$||								|
+		/||$$||								|
+		/||$$||---------------------------------------------------------|
+		/||$$||=========================================================|
+		/||$$||_________________________________________________________|
+		/||@@||/////////////////////////////////////////////////////////|
+		\||@@||_________________________________________________________/
